@@ -5,7 +5,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Template novo com saida apk</Text>
+      <Text>Template para uso de expo49 base</Text>
       <StatusBar style="auto" />
     </View>
   );
